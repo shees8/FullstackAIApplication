@@ -1,8 +1,8 @@
-🤖 [Your Project Name] - Full-Stack Agentic AI Assistant
+🤖 NOVA AI - Full-Stack AGENTIC AI Assistant
 
 📝 Overview
 
-[Your Project Name] is a complete end-to-end Agentic AI application demonstrating advanced capabilities in AI agents, full-stack development, and multimodal interactions. It features a robust architecture combining a web frontend, a backend API, and a versatile AI agent equipped with chat, voice, and image processing skills.
+NOVA AI is a complete end-to-end Agentic AI application demonstrating advanced capabilities in AI agents, full-stack development, and multimodal interactions. It features a robust architecture combining a web frontend, a backend API, and a versatile AI agent equipped with chat, voice, and image processing skills.
 
 ✨ Core Features
 

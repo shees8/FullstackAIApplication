@@ -10,6 +10,9 @@ const nextConfig = {
   },
   // Disable compression for streaming SSE
   compress: false,
+
+  // Hide the Next.js dev "N" badge
+  devIndicators: false,
 };
 
 export default nextConfig;
